@@ -1,16 +1,19 @@
-### Hi there 👋
+### Senior Software Engineer
 
-<!--
-**dryabchenko/dryabchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Passionate software engineer with **15+ years** of experience delivering full-stack solutions and leading high-performing technical teams. I specialize in building scalable web applications across fintech, healthcare, AI/ML, and blockchain sectors.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python, PHP, SQL, Solidity  
+**Frontend:** React, Next.js, Vue, Angular, D3.js  
+**Backend:** Node.js, Django, Laravel, Symfony  
+**Technologies:** Web3, AI/ML, Langchain, WebRTC, WebSockets, Blockchain  
+**Database & Tools:** PostgreSQL, MySQL, MongoDB, Docker, AWS, Git
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denisriabchenko) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denis@example.com) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://riabchenko.me)
